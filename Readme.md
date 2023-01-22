@@ -1,3 +1,4 @@
+                            //Turkish
 Burada FresnelIntegration isimli projede if ve else blokları kaldırılığ normal şekilde çalıştırma işlemi yapıldığında tupple vb hata alınmakta.
 Düz bu şekilde çalıştırma işlemi yapıldığında ise çalışma gözlenmemekte.
 Python anaconda üzerindenyazma işlemi yapıldığında versiyon kaynaklı olabileceğini düşünülen sorun olmuş olabilir.
@@ -7,7 +8,7 @@ Kullanılması planlanan range ve xrange yerine kendi aralık fonksiyonu yazdım
 ->Standart kütüpaheneler kullanıldı.
 ->xrange ve range gibi fonksiyonlar yerine kendi aralık fonksiyonumu yazdım.
 
-//English
+                            //English
 Here, in the project named FresnelIntegration, when the if and else blocks are removed and run normally, tupple etc. error is received.
 When executed in this way, no operation is observed.
 When writing over Python anaconda, there may be a problem that may be caused by the version.
